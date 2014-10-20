@@ -16,7 +16,7 @@
 
 ###2.利害關係人目標表:###
 
-<img src="https://drive.google.com/?authuser=0#my-drive">
+<img src="http://4.bp.blogspot.com/-UvF-BEGFW9o/T4bSZP_c5FI/AAAAAAAAC8g/KLdmfZJn4gk/s1600/01.jpg">
 
 ###3.事件表:###
 
@@ -29,7 +29,7 @@
 |以年份列出當季流行款鞋子|  年份查詢      |
 |特定時間至各網站擷取資料|  系統資料更新  |
 
-<img src="https://drive.google.com/?authuser=0#my-drive">
+
 
 
 
