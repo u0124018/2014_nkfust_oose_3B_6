@@ -49,3 +49,9 @@
 <img src="https://images.plurk.com/2LU3oxA0FmGnrJRLjnlh3y.jpg">
 <img src="https://images.plurk.com/4bnTkoVPAGSPo98yZXfPdH.jpg">
 <img src="https://images.plurk.com/1FEl8PVqUJ6575ahwl6KCz.jpg">
+
+###8.使用案例的初步類別圖:###
+<img src="https://images.plurk.com/7cMmoRxYXAxP9mnu184iOB.jpg">
+<img src="https://images.plurk.com/7c7O5l93ZkcbsjIAGXH2VF.jpg">
+<img src="https://images.plurk.com/6sNdcaNunRbYg4eVIup88a.jpg">
+<img src="https://images.plurk.com/3dJXtKfTHwlGAEdGCwEwSW.jpg">
