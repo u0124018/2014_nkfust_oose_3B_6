@@ -16,7 +16,7 @@
 
 ###2.利害關係人目標表:###
 
-<img src="https://www.flickr.com/photos/128030587@N07/14963431554/">
+<img src="https://drive.google.com/?authuser=0#my-drive">
 
 ###3.事件表:###
 
