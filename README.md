@@ -46,6 +46,6 @@
 
 ###7.使用案例的名詞與概念類別列舉表:###
 <img src="https://images.plurk.com/2yBqWosyCudUUoikCS8hfq.jpg">
-<img src="">
-<img src="">
-<img src="">
+<img src="https://images.plurk.com/2LU3oxA0FmGnrJRLjnlh3y.jpg">
+<img src="https://images.plurk.com/4bnTkoVPAGSPo98yZXfPdH.jpg">
+<img src="https://images.plurk.com/1FEl8PVqUJ6575ahwl6KCz.jpg">
