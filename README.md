@@ -28,7 +28,9 @@
 |以年份列出當季流行款鞋子|  年份查詢      |
 |特定時間至各網站擷取資料|  系統資料更新  |
 
+ ###4.使用案例圖:###
  
-
+<img src="https://images.plurk.com/19zdPx5qea30X2bmudPuVJ.jpg">
+<img src="">
 
 
