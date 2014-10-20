@@ -52,6 +52,14 @@
 
 ###8.使用案例的初步類別圖:###
 <img src="https://images.plurk.com/7cMmoRxYXAxP9mnu184iOB.jpg">
+
 <img src="https://images.plurk.com/7c7O5l93ZkcbsjIAGXH2VF.jpg">
+
 <img src="https://images.plurk.com/6sNdcaNunRbYg4eVIup88a.jpg">
+
 <img src="https://images.plurk.com/3dJXtKfTHwlGAEdGCwEwSW.jpg">
+
+###9.整個系統的初步類別圖:###
+<img src="https://images.plurk.com/3asSOMfPEKNF3UcYRo6glG.jpg">
+
+
