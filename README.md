@@ -16,7 +16,7 @@
 
 ###2.利害關係人目標表:###
 
-<img src="https://www.google.com.tw/search?hl=zh-TW&site=imghp&tbm=isch&source=hp&biw=1067&bih=517&q=elmo&oq=elmo&gs_l=img.3..0l10.1122.5889.0.6080.15.10.4.1.1.0.164.644.9j1.10.0....0...1ac.1j4.56.img..0.15.652.i-dT06XKMx0#facrc=_&imgdii=_&imgrc=Fg15vFL6YtpekM%253A%3BsQBeR6HalR7agM%3Bhttp%253A%252F%252Fwww.lookatwhatimade.net%252Fwp-content%252Fuploads%252F2013%252F01%252Felmo-face.jpg%3Bhttp%253A%252F%252Fwww.lookatwhatimade.net%252Ffood%252Fcakes-and-bakes%252Fhow-to-make-an-elmo-cake%252F%3B1600%3B1600">
+<img src="https://drive.google.com/?authuser=0#my-drive">
 
 ###3.事件表:###
 
@@ -29,7 +29,7 @@
 |以年份列出當季流行款鞋子|  年份查詢      |
 |特定時間至各網站擷取資料|  系統資料更新  |
 
-
+<img src="https://drive.google.com/?authuser=0#my-drive">
 
 
 
