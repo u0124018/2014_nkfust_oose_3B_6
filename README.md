@@ -31,10 +31,10 @@
 <img src="https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-xap1/v/t1.0-9/10606570_756020101137031_3489557833989254652_n.jpg?oh=904de77a48e389ab9434fec2425ce039&oe=54E29CB0&__gda__=1424477292_686e8e5219daffef0f5ef407f3e315e4">
 
 ###6.個別使用案例的活動圖:###
-<img src="https://images.plurk.com/2Uds0Q1zmfnGjNwhULmeDG.jpg">
-<img src="https://images.plurk.com/3p1uOugR4StYzpJcuI6r86.jpg">
-<img src="https://images.plurk.com/yxkGzZjvr0W9H5waTCX1i.jpg">
-<img src="https://images.plurk.com/4Dg0kTj9qEEc8uhsRgJKsK.jpg">
+<img src="https://scontent-b-nrt.xx.fbcdn.net/hphotos-xpa1/v/t1.0-9/934846_756023891136652_8953008924569793466_n.jpg?oh=6935c2853ca9e242735105083301a0cc&oe=54DDF6A6">
+<img src="https://fbcdn-sphotos-c-a.akamaihd.net/hphotos-ak-xap1/v/t1.0-9/1477348_756024034469971_6769178200776226437_n.jpg?oh=f7abca2d4f992716194d6c328a04c77d&oe=54EA1D67&__gda__=1423907374_c28ea7bb72acbdcd389cc260309ac8ce">
+<img src="https://scontent-b-nrt.xx.fbcdn.net/hphotos-xpf1/v/t1.0-9/604098_756024037803304_3708227237953984344_n.jpg?oh=713b95149ed02a0fdb1a8c4060dbb70c&oe=54E1B80B">
+<img src="https://scontent-b-nrt.xx.fbcdn.net/hphotos-xpf1/v/t1.0-9/10348299_756024041136637_3430681442954178102_n.jpg?oh=f33fc0af619655ec1478cadb74821626&oe=54B10AD3">
 
 ###7.使用案例的名詞與概念類別列舉表:###
 <img src="https://images.plurk.com/2yBqWosyCudUUoikCS8hfq.jpg">
