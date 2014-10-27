@@ -49,7 +49,7 @@
 
 <img src="https://scontent-a-nrt.xx.fbcdn.net/hphotos-xfa1/v/t1.0-9/10698701_756030924469282_7923003858006423128_n.jpg?oh=fc911053e42084ce70b1aa43ff9c8aa2&oe=54B1EB9C">
 
-<img src="https://images.plurk.com/3dJXtKfTHwlGAEdGCwEwSW.jpg">
+<img src="https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-xap1/v/t1.0-9/10441078_756048801134161_7029733938581581993_n.jpg?oh=12e7797a811ac37abe8536f65c0cb434&oe=54E129A5&__gda__=1420932985_0d5b07bd16d17642af12d3b82a73f689">
 
 ###9.整個系統的初步類別圖:###
 <img src="https://fbcdn-sphotos-c-a.akamaihd.net/hphotos-ak-xap1/v/t1.0-9/10480226_756032091135832_2204135835577199765_n.jpg?oh=36c3c871046165482160d94c9ed0c275&oe=54B3169C&__gda__=1424392256_fbc26c0bc621bda8ce8d4f38b87d9c3e">
