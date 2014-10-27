@@ -40,14 +40,14 @@
 <img src="https://images.plurk.com/2yBqWosyCudUUoikCS8hfq.jpg">
 <img src="https://images.plurk.com/2LU3oxA0FmGnrJRLjnlh3y.jpg">
 <img src="https://images.plurk.com/4bnTkoVPAGSPo98yZXfPdH.jpg">
-<img src="https://images.plurk.com/1FEl8PVqUJ6575ahwl6KCz.jpg">
+<img src="https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-xpf1/v/t1.0-9/10610782_756027454469629_1172906583327015640_n.jpg?oh=9f818cc9823643a474b312ed86c041be&oe=54E86269&__gda__=1425193731_6647953b20b68e9cbc97b153bab1e2b2">
 
 ###8.使用案例的初步類別圖:###
-<img src="https://images.plurk.com/7cMmoRxYXAxP9mnu184iOB.jpg">
+<img src="https://scontent-a-nrt.xx.fbcdn.net/hphotos-xpa1/v/t1.0-9/1376416_756030921135949_2446828580333657335_n.jpg?oh=ba69b8f8093b48ea33cd400814f0b8af&oe=54E870C7">
 
-<img src="https://images.plurk.com/7c7O5l93ZkcbsjIAGXH2VF.jpg">
+<img src="https://fbcdn-sphotos-f-a.akamaihd.net/hphotos-ak-xap1/v/t1.0-9/10290173_756030917802616_2371858157339357973_n.jpg?oh=0790280c9e4b12c5e8bc4e8cc34a13ef&oe=54E2F3DD&__gda__=1424365569_eee565b183b74e4c6e839ff7f05de996">
 
-<img src="https://images.plurk.com/6sNdcaNunRbYg4eVIup88a.jpg">
+<img src="https://scontent-a-nrt.xx.fbcdn.net/hphotos-xfa1/v/t1.0-9/10698701_756030924469282_7923003858006423128_n.jpg?oh=fc911053e42084ce70b1aa43ff9c8aa2&oe=54B1EB9C">
 
 <img src="https://images.plurk.com/3dJXtKfTHwlGAEdGCwEwSW.jpg">
 
