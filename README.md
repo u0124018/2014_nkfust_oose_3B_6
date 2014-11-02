@@ -45,11 +45,11 @@
 ###8.使用案例的初步類別圖:###
 <img src="https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-xpa1/v/t1.0-9/10441136_759310287474679_4225654773912910743_n.jpg?oh=680eab4e3796739201ee01e402cc68df&oe=54E16208&__gda__=1425558192_2b1a1759779581dbb325cfc0630efdf5">
 
-<img src="https://fbcdn-sphotos-f-a.akamaihd.net/hphotos-ak-xap1/v/t1.0-9/10290173_756030917802616_2371858157339357973_n.jpg?oh=0790280c9e4b12c5e8bc4e8cc34a13ef&oe=54E2F3DD&__gda__=1424365569_eee565b183b74e4c6e839ff7f05de996">
+<img src="https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-xap1/v/t1.0-9/1546165_759317350807306_4278519020339969437_n.jpg?oh=0bbd3a820779be07c3fcc4ded1e867a3&oe=54AA6B43&__gda__=1424788490_573d37e1a91518ba3823d10db60e1c11">
 
-<img src="https://scontent-a-nrt.xx.fbcdn.net/hphotos-xfa1/v/t1.0-9/10698701_756030924469282_7923003858006423128_n.jpg?oh=fc911053e42084ce70b1aa43ff9c8aa2&oe=54B1EB9C">
+<img src="https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-xfa1/v/t1.0-9/1012883_759317374140637_711992503962101123_n.jpg?oh=eb34fb3f05df67a19b9f071d4cfc0035&oe=54DC6C17&__gda__=1425540002_3ef6647e5a2a053c19f624b67e4dd00b">
 
-<img src="https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-xap1/v/t1.0-9/10441078_756048801134161_7029733938581581993_n.jpg?oh=12e7797a811ac37abe8536f65c0cb434&oe=54E129A5&__gda__=1420932985_0d5b07bd16d17642af12d3b82a73f689">
+<img src="https://scontent-b-hkg.xx.fbcdn.net/hphotos-xap1/v/t1.0-9/10676112_759317370807304_6032634082495063471_n.jpg?oh=d93409d1dcbcf27a16d7cc2f71a42b39&oe=54DC50F3">
 
 ###9.整個系統的初步類別圖:###
 <img src="https://fbcdn-sphotos-c-a.akamaihd.net/hphotos-ak-xap1/v/t1.0-9/10480226_756032091135832_2204135835577199765_n.jpg?oh=36c3c871046165482160d94c9ed0c275&oe=54B3169C&__gda__=1424392256_fbc26c0bc621bda8ce8d4f38b87d9c3e">
