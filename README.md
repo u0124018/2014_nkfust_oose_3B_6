@@ -43,7 +43,7 @@
 <img src="https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-xpf1/v/t1.0-9/10610782_756027454469629_1172906583327015640_n.jpg?oh=9f818cc9823643a474b312ed86c041be&oe=54E86269&__gda__=1425193731_6647953b20b68e9cbc97b153bab1e2b2">
 
 ###8.使用案例的初步類別圖:###
-<img src="https://scontent-a-nrt.xx.fbcdn.net/hphotos-xpa1/v/t1.0-9/1376416_756030921135949_2446828580333657335_n.jpg?oh=ba69b8f8093b48ea33cd400814f0b8af&oe=54E870C7">
+<img src="https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-xpa1/v/t1.0-9/10441136_759310287474679_4225654773912910743_n.jpg?oh=680eab4e3796739201ee01e402cc68df&oe=54E16208&__gda__=1425558192_2b1a1759779581dbb325cfc0630efdf5">
 
 <img src="https://fbcdn-sphotos-f-a.akamaihd.net/hphotos-ak-xap1/v/t1.0-9/10290173_756030917802616_2371858157339357973_n.jpg?oh=0790280c9e4b12c5e8bc4e8cc34a13ef&oe=54E2F3DD&__gda__=1424365569_eee565b183b74e4c6e839ff7f05de996">
 
