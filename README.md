@@ -52,7 +52,7 @@
 <img src="https://scontent-b-hkg.xx.fbcdn.net/hphotos-xap1/v/t1.0-9/10676112_759317370807304_6032634082495063471_n.jpg?oh=d93409d1dcbcf27a16d7cc2f71a42b39&oe=54DC50F3">
 
 ###9.整個系統的初步類別圖:###
-<img src="https://fbcdn-sphotos-c-a.akamaihd.net/hphotos-ak-xap1/v/t1.0-9/10480226_756032091135832_2204135835577199765_n.jpg?oh=36c3c871046165482160d94c9ed0c275&oe=54B3169C&__gda__=1424392256_fbc26c0bc621bda8ce8d4f38b87d9c3e">
+<img src="https://scontent-a-hkg.xx.fbcdn.net/hphotos-xpa1/v/t1.0-9/10271604_759333357472372_6405887456998533331_n.jpg?oh=d16689ce8f37492d9b123eec02380256&oe=54EFA50F">
 
 ###10.使用案例主要成功情節之英文名稱事件對應###
 <img src="https://scontent-a.xx.fbcdn.net/hphotos-xfa1/v/t1.0-9/1780755_752614541477587_7056080323998511020_n.jpg?oh=a4149721fc4a91e496087b6becd074a6&oe=54AC0C80">
