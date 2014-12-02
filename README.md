@@ -69,7 +69,7 @@
 <img src="https://scontent-a-nrt.xx.fbcdn.net/hphotos-xpa1/v/t1.0-9/10428102_756039987801709_4687668225429207073_n.jpg?oh=7e73b2ab1913ebc4ed407173d4cfd416&oe=54F87572">
 <img src="https://fbcdn-sphotos-f-a.akamaihd.net/hphotos-ak-xaf1/v/t1.0-9/1932392_756039991135042_6995816723204892337_n.jpg?oh=938de670a4567171fd905d037b7ec178&oe=54F765F4&__gda__=1424660618_3be847a7d5865ddfeab56598d6d64e1b">
 ###13.使用案例之循序圖###
-<img src="https://cacoo.com/diagrams/RTHSWf1SGx2Rr5gl-37F83.png?t=1417451360752">
+<img src="https://cacoo.com/diagrams/RTHSWf1SGx2Rr5gl">
 <img src="https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-xap1/v/t1.0-9/10520824_843826085638551_6308398787456487425_n.jpg?oh=7f384145072f78bca84311fb90a2e0e6&oe=5519C4A4&__gda__=1427723384_bb36f759017cc2845ffb949a8e4208d5">
 <img src="https://scontent-a-tpe.xx.fbcdn.net/hphotos-xpa1/v/t1.0-9/10557452_843826088971884_3277586771310734190_n.jpg?oh=035fabab31943bb30858ec26584168cc&oe=55178B31">
 ###14.使用案例之強韌圖###
