@@ -59,6 +59,8 @@
 ###10.使用案例主要成功情節之英文名稱事件對應###
 <img src="https://scontent-a.xx.fbcdn.net/hphotos-xfa1/v/t1.0-9/1780755_752614541477587_7056080323998511020_n.jpg?oh=a4149721fc4a91e496087b6becd074a6&oe=54AC0C80">
 
+<img src="https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpa1/v/t1.0-9/10665314_778883722184002_8139872876042304912_n.jpg?oh=a1b95659a2e8946bd17ec2d917d94a85&oe=55005E9A&__gda__=1426509346_001137fe859ee6f21643d563c2ef1314">
+
 ###11.名稱事件之合約###
 <img src="https://fbcdn-sphotos-f-a.akamaihd.net/hphotos-ak-xap1/v/t1.0-9/10644810_756036121135429_1329227362716662697_n.jpg?oh=70247eddb1cbfe11f53d43e0e6adbf51&oe=54F4AE42&__gda__=1424464286_7a18ff82b6605eadb5d612560e561853">
 <img src="https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-xpf1/v/t1.0-9/10367604_756036124468762_7470404313327353937_n.jpg?oh=43e7d18b7f0f660bdfbe7d6d8f3101cb&oe=54E827E5&__gda__=1424922255_056bf35c93a45343249296ebf6172578">
