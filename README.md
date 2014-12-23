@@ -85,3 +85,5 @@
 <img src="https://scontent-a.xx.fbcdn.net/hphotos-xfa1/v/t1.0-9/p417x417/10805611_1029850480373842_5419418085586170984_n.jpg?oh=1089d19cb9666560e58b4de25518729f&oe=550881DD">
 ###15.entity關係圖###
 <img src="https://scontent-a.xx.fbcdn.net/hphotos-xap1/v/t1.0-9/p417x417/10846320_1029850363707187_4213017553517097973_n.jpg?oh=77827ba7395210cb19d5ddd661000c30&oe=550643EE">
+###16.ER-Model###
+<img src="https://cacoo.com/diagrams/4KvqhE8ByFzv0BoU/edit">
