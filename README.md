@@ -90,3 +90,19 @@
 ###17.程式碼###
 ####(1)HOME####
 <img src="https://scontent-b-tpe.xx.fbcdn.net/hphotos-xfp1/v/t1.0-9/10881861_857846710903155_2905808800188864843_n.jpg?oh=095086a77b5344165fd5c2e9ebab6a99&oe=553941BF">
+<img src="https://scontent-a-tpe.xx.fbcdn.net/hphotos-xpa1/t31.0-8/10257298_857852230902603_3956208140962934956_o.jpg">
+####(2)SERVICE####
+<img src="https://scontent-a-tpe.xx.fbcdn.net/hphotos-xpa1/t31.0-8/10446296_857852237569269_1671971999118370390_o.jpg">
+<img src="https://scontent-a-tpe.xx.fbcdn.net/hphotos-xpa1/v/t1.0-9/10882235_857852254235934_6733649200201571810_n.jpg?oh=6e48a29e8b7991a13248988ed6aae3e2&oe=55442862">
+####(3)WORK####
+<img src="https://scontent-a-tpe.xx.fbcdn.net/hphotos-xpa1/t31.0-8/10873397_857852297569263_24640642484752823_o.jpg">
+<img src="https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-xfp1/t31.0-8/10887285_857852314235928_4483559175795679239_o.jpg">
+<img src="https://fbcdn-sphotos-f-a.akamaihd.net/hphotos-ak-xap1/t31.0-8/10679903_857852347569258_3135336644943916577_o.jpg">
+####(4)COMPANY####
+<img src="https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xap1/t31.0-8/10865794_857852360902590_7024986975836900318_o.jpg">
+<img src="https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-xfp1/t31.0-8/10848759_857852367569256_4766812341196916348_o.jpg">
+####(5)RECRUIT####
+<img src="https://www.facebook.com/photo.php?fbid=857852384235921&set=a.857838960903930.1073741834.100000335011224&type=3&theater">
+####(6)CONTACT####
+<img src="https://www.facebook.com/photo.php?fbid=857852400902586&set=a.857838960903930.1073741834.100000335011224&type=3&theater">
+<img src="https://scontent-b-tpe.xx.fbcdn.net/hphotos-xap1/v/t1.0-9/1620520_857852404235919_5058443381999393626_n.jpg?oh=ec8fe835485d15c53b603aa125a279ef&oe=55335E5E">
