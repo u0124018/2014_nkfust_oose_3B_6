@@ -87,3 +87,75 @@
 <img src="https://scontent-a.xx.fbcdn.net/hphotos-xap1/v/t1.0-9/p417x417/10846320_1029850363707187_4213017553517097973_n.jpg?oh=77827ba7395210cb19d5ddd661000c30&oe=550643EE">
 ###16.ER-Model###
 <img src="https://scontent-b-tpe.xx.fbcdn.net/hphotos-xap1/t31.0-8/10848773_857838974237262_9214027881529088356_o.jpg">
+###17.程式碼###
+####(1)HOME####
+
+<!DOCTYPE html>
+<html lang="zh_tw">
+<head>
+<meta charset="utf-8" >
+<meta name="viewport" content="width=device-width">
+<title>tech公司RWD網頁</title>
+<link href="css/reset.css" rel="stylesheet" type="text/css">
+<link href="css/index.css" rel="stylesheet" type="text/css">
+</head>
+
+<!-- [if It IE 9] >
+<script src="scripts/html5shiv.js" type="text/javascript"></script>
+
+<![endif] -->
+
+<!-- [if It IE 9] >
+<script scr="scripts/css3-mediaqueries.js" type="text/javascript"></script>
+
+<![endif] -->
+
+<body>
+<div id="stage">
+  <header>
+    <h1 id="top"> <img src="images/img_logo.jpg" width="300" height="33"> </h1>
+    <ul id="s_nav" class="cf">
+      <li class="contact"><a href="#">contact</a></li>
+      <li class="news"><a href="#">news</a></li>
+      <li class="sitemap"><a href="#">sitemap</a></li>
+    </ul>
+    <p><img src="images/topImage.jpg" width="960" height="400"></p>
+  </header>
+  <nav>
+    <ul class="cf">
+      <li class="home"><a href="#"><img src="images/nav_home.jpg" width="51" height="48"></a></li>
+      <li><a href="service.html"><img src="images/nav_service.jpg" width="63" height="48"></a></li>
+      <li><a href="works.html"><img src="images/nav_works.jpg" width="50" height="48"></a></li>
+      <li><a href="company.html"><img src="images/nav_company.jpg" width="88" height="48"></a></li>
+      <li><a href="recruit.html"><img src="images/nav_recruit.jpg" width="59" height="48"></a></li>
+      <li class="contact"><a href="contact.html"><img src="images/nav_contact.jpg" width="74" height="48"></a></li>
+    </ul>
+  </nav>
+  <div id="contents" class="cf">
+    <section id="work" class="cf">
+      
+      <h2>公司介紹</h2>
+　<p>　高科F5創立於2014年9月，由五位高雄第一科技大學資訊管理系的帥哥所創立，起初是由陳昭綸（主管）有個想創業的理念，因此開始尋找工作上的夥伴。</p>
+　　<p>第一位先找上高駿騰（網站架設管理人員），經過討論後發現駿騰是一個很有點子的人，因此請他幫忙構想要如何設計一個吸引網友閱覽本站的方法及概念。駿騰認為，要做一個鞋子搜尋的消息網就應該將訊息分門別類，讓使用者能夠以最快的速度找出適合自己的鞋子。</p>
+　　<p>概念產生後時間到了10月中，由於技術上的困難，因此陳主管找上了另一位成員─何彥儒（網站架設管理人員）。我們的網站就此誕生了，彥儒以最能吸引年輕族群的方式，製作出具新鮮感且潮流感的網頁，不僅增加可讀性，也能讓使用者一目了然。</p>
+　　<p>之後，陳主管開始尋找後端的夥伴，他先找上了銘楷（資料庫管理人員），在陳組長的要求下，銘楷答應進入公司與夥伴一起打拼，銘楷對於網頁上的功能與後端資料量的要求很高，時常與前端人員進行討論，希望能網羅各式廠牌與大廠合作，得到各廠商的消息。</p>
+　　<p>11月初，對於廠商的接洽及後端資料的搜集仍有人手不足的情況，陳主管找向程維康（資料庫管理人員），由於維康的人脈與社交能力，使得公司在與廠商合作的方面更為穩固且融洽。對於人才的招募作業也做得相當成功、順利。</p>
+　　<p>公司於12月中正式將網頁架設完成，我們秉持讓閱覽網站的使用者能夠在最短時間內找到合適的鞋子的保證，且擁有資源豐富的外部聯結，在市面上已成為相當出色的消息網站。目前正與其他更多潮牌廠商合作，位來將朝向衣服、庫子等方面邁進，盼能製作出服裝及鞋子穿搭建議，讓現代年輕人都能成為不折不扣的潮男、時尚女王。
+</p>
+   <h4 id="all"><img src="images/home_all.png"></h4>
+    </section>
+    
+    <!--  WORKS  --> 
+    
+    <!--  NEWS  --> 
+    
+    <!--  information  --> 
+  </div>
+<footer>
+  <img src="images/img_logo_s.jpg" width="164" height="18">
+  <p>Copyright &copy; JOJO OS Compamy.</p>
+  </footer>
+  
+</div>
+</body>
+</html>
