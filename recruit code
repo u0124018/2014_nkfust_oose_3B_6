@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="zh_tw">
+<head>
+<meta charset="utf-8" >
+<meta name="viewport" content="width=device-width">
+<title>tech公司RWD網頁</title>
+<link href="css/reset.css" rel="stylesheet" type="text/css">
+<link href="css/index.css" rel="stylesheet" type="text/css">
+</head>
+
+<!-- [if It IE 9] >
+<script src="scripts/html5shiv.js" type="text/javascript"></script>
+
+<![endif] -->
+
+<!-- [if It IE 9] >
+<script scr="scripts/css3-mediaqueries.js" type="text/javascript"></script>
+
+<![endif] -->
+
+<body>
+<div id="stage">
+  <header>
+    <h1 id="top"> <img src="images/img_logo.jpg" width="300" height="33"> </h1>
+    <ul id="s_nav" class="cf">
+      <li class="contact"><a href="#">contact</a></li>
+      <li class="news"><a href="#">news</a></li>
+      <li class="sitemap"><a href="#">sitemap</a></li>
+    </ul>
+    <p><img src="images/topImage.jpg" width="960" height="400"></p>
+  </header>
+  <nav>
+    <ul class="cf">
+      <li class="home"><a href="home.html"><img src="images/nav_home.jpg" width="51" height="48"></a></li>
+      <li><a href="service.html"><img src="images/nav_service.jpg" width="63" height="48"></a></li>
+      <li><a href="works.html"><img src="images/nav_works.jpg" width="50" height="48"></a></li>
+      <li><a href="company.html"><img src="images/nav_company.jpg" width="88" height="48"></a></li>
+      <li><a href="#"><img src="images/nav_recruit.jpg" width="59" height="48"></a></li>
+      <li class="contact"><a href="contact.html"><img src="images/nav_contact.jpg" width="74" height="48"></a></li>
+    </ul>
+  </nav>
+  <div id="contents" class="cf">
+    <section id="work" class="cf">
+      
+      <h4><img src="images/recuit.png"></h4> 
+      <h4> <a href="http://www.jobgo.com.tw/cp/viewwork.php?id=43gaGAP3cvweeAg" target="new">>>>>點我申請加入<<<< </a></h4>
+    </section>
+    
+    <!--  WORKS  --> 
+    
+    <!--  NEWS  --> 
+    
+    <!--  information  --> 
+  </div>
+<footer>
+  <img src="images/img_logo_s.jpg" width="164" height="18">
+  <p>Copyright &copy; JOJO OS Compamy.</p>
+  </footer>
+  
+</div>
+</body>
+</html>
