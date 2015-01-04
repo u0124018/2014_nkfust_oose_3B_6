@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="zh_tw">
+<head>
+<meta charset="utf-8" >
+<meta name="viewport" content="width=device-width">
+<title>tech公司RWD網頁</title>
+<link href="css/reset.css" rel="stylesheet" type="text/css">
+<link href="css/index.css" rel="stylesheet" type="text/css">
+</head>
+
+<!-- [if It IE 9] >
+<script src="scripts/html5shiv.js" type="text/javascript"></script>
+
+<![endif] -->
+
+<!-- [if It IE 9] >
+<script scr="scripts/css3-mediaqueries.js" type="text/javascript"></script>
+
+<![endif] -->
+
+<body>
+<div id="stage">
+  <header>
+    <h1 id="top"> <img src="images/img_logo.jpg" width="300" height="33"> </h1>
+    <ul id="s_nav" class="cf">
+      <li class="contact"><a href="#">contact</a></li>
+      <li class="news"><a href="#">news</a></li>
+      <li class="sitemap"><a href="#">sitemap</a></li>
+    </ul>
+    <p><img src="images/topImage.jpg" width="960" height="400"></p>
+  </header>
+  <nav>
+    <ul class="cf">
+      <li class="home"><a href="home.html"><img src="images/nav_home.jpg" width="51" height="48"></a></li>
+      <li><a href="#"><img src="images/nav_service.jpg" width="63" height="48"></a></li>
+      <li><a href="works.html"><img src="images/nav_works.jpg" width="50" height="48"></a></li>
+      <li><a href="company.html"><img src="images/nav_company.jpg" width="88" height="48"></a></li>
+      <li><a href="recruit.html"><img src="images/nav_recruit.jpg" width="59" height="48"></a></li>
+      <li class="contact"><a href="contact.html"><img src="images/nav_contact.jpg" width="74" height="48"></a></li>
+    </ul>
+  </nav>
+  <div id="contents" class="cf">
+    <section id="work" class="cf">
+      
+      <h2>公司的服務與特色</h2>
+      <p>我們提供使用者最完整的鞋款查詢，能讓使用者得知哪雙鞋子是目前最流行的，可以依自己的喜好、需求搜尋。我們分成五種搜尋法：依品牌查詢、依價格查詢、依顏色查詢、依種類查詢、依年份查詢等。</p>
+      <h2>公司服務團隊及介紹</h2>
+  <h4><img src="images/member_boss.png"width="280" height="360"></h4>
+  <h4>姓名：陳昭</h4>
+<h4>職位：主管</h4>
+<h4>稱號：BOSS</h4>
+<h4>專長：組織團隊、社交能力</h4>
+<h1>工作</h1>
+<h4>組織整間公司</h4>
+      <h4>分配事項</h4>
+		<h4> 時程安排</h4>
+		 <h4>廠商接洽</h4>
+		<h4> 正確即時更新資料</h4>
+    <h4><img src="images/member_employee1.png"width="280" height="360"></h4>
+    <h4>姓名：高駿騰</h4>
+<h4>職位：網站架設管理人員</h4>
+<h4>稱號：高SIR</h4>
+<h4>專長：了解最新資訊、架構網站</h4>
+<h1>工作</h1>
+<h4>擷取時下最流行資訊</h4>
+		 <h4>網站構想</h4>
+  <h4>網站架設作業</h4>
+  <h4><img src="images/member_employee2.png"width="280" height="360"></h4>
+  <h4>姓名：何彥儒</h4>
+<h4>職位：網站架設管理人員</h4>
+<h4>稱號：何SIR</h4>
+<h4>專長：架構網站、偵錯、除錯能力</h4>
+<h1>工作</h1>
+<h4>網站組織與架設</h4>
+	<h4>網頁維護</h4>
+		<h4>問題排除</h4>
+		 <h4>蒐集資訊</h4>
+<h4><img src="images/member_employee3.png"width="280" height="360"></h4>
+<h4>姓名：彭銘楷</h4>
+<h4>職位：資料庫管理人員</h4>
+<h4>稱號：彭SIR</h4>
+<h4>專長：概念分析能力、應酬協調</h4>
+<h1>工作</h1>
+<h4>建立資料庫</h4>
+		 <h4>聯絡廠商</h4>
+		 <h4>問題排除</h4>
+		 <h4>彙整資訊</h4>
+        <h4><img src="images/member_employee4.png"width="280" height="360"></h4>
+       <h4>姓名：程維康</h4>
+       <h4> 職位：資料庫管理人員</h4>
+<h4>稱號：程SIR</h4>
+<h4>專長：社交能力、人資控管</h4>
+<h1>工作</h1>
+<h4>建立資料庫</h4>
+		 <h4>聯絡廠商</h4>
+		 <h4>人才招募</h4>
+
+
+
+
+  
+
+    </section>
+    
+    <!--  WORKS  --> 
+    
+    <!--  NEWS  --> 
+    
+    <!--  information  --> 
+  </div>
+<footer>
+  <img src="images/img_logo_s.jpg" width="164" height="18">
+  <p>Copyright &copy; JOJO OS Compamy.</p>
+  </footer>
+  
+</div>
+</body>
+</html>
