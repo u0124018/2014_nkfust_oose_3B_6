@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="zh_tw">
+<head>
+<meta charset="utf-8" >
+<meta name="viewport" content="width=device-width">
+<title>tech公司RWD網頁</title>
+<link href="css/reset.css" rel="stylesheet" type="text/css">
+<link href="css/index.css" rel="stylesheet" type="text/css">
+</head>
+
+<!-- [if It IE 9] >
+<script src="scripts/html5shiv.js" type="text/javascript"></script>
+
+<![endif] -->
+
+<!-- [if It IE 9] >
+<script scr="scripts/css3-mediaqueries.js" type="text/javascript"></script>
+
+<![endif] -->
+
+<body>
+<div id="stage">
+  <header>
+    <h1 id="top"> <img src="images/img_logo.jpg" width="300" height="33"> </h1>
+    <ul id="s_nav" class="cf">
+      <li class="contact"><a href="#">contact</a></li>
+      <li class="news"><a href="#">news</a></li>
+      <li class="sitemap"><a href="#">sitemap</a></li>
+    </ul>
+    <p><img src="images/topImage.jpg" width="960" height="400"></p>
+  </header>
+  <nav>
+    <ul class="cf">
+      <li class="home"><a href="home.html"><img src="images/nav_home.jpg" width="51" height="48"></a></li>
+      <li><a href="service.html"><img src="images/nav_service.jpg" width="63" height="48"></a></li>
+      <li><a href="#"><img src="images/nav_works.jpg" width="50" height="48"></a></li>
+      <li><a href="company.html"><img src="images/nav_company.jpg" width="88" height="48"></a></li>
+      <li><a href="recruit.html"><img src="images/nav_recruit.jpg" width="59" height="48"></a></li>
+      <li class="contact"><a href="contact.html"><img src="images/nav_contact.jpg" width="74" height="48"></a></li>
+    </ul>
+  </nav>
+  <div id="contents" class="cf">
+    <section id="work" class="cf">
+     <h2>品牌查詢</h2>
+      <article><a href="http://www.ebay.com/sch/i.html?_odkw=puma&_from=R40%7CR40%7CR40%7CR40%7CR40%7CR40&_osacat=93427&_from=R40&_trksid=p2045573.m570.l1313.TR0.TRC0.H0.Xnike&_nkw=nike&_sacat=93427" target="new"><img src="images/works_nike.png"width="184" height="160"></a>
+        <h3>NIKE</h3>
+        
+      </article>
+      <article><a href="http://www.ebay.com/sch/Mens-Shoes-/93427/i.html?_from=R40%7CR40%7CR40&_nkw=Adidas" target="new"><img src="images/works_adidas.png"width="184" height="160"></a>
+        <h3>Adidas</h3>
+
+      </article>
+      <article><a href="http://www.ebay.com/sch/i.html?_odkw=Adidas&_from=R40%7CR40%7CR40&_osacat=93427&_from=R40&_trksid=p2045573.m570.l1313.TR0.TRC0.H0.Xnew+balance&_nkw=new+balance&_sacat=93427" target="new"><img src="images/works_NB.png"width="184" height="160"></a>
+        <h3>New Balance</h3>
+   
+      </article>
+      <article><a href="http://www.ebay.com/sch/i.html?_odkw=new+balance&_from=R40%7CR40%7CR40%7CR40&_osacat=93427&_from=R40&_trksid=p2045573.m570.l1313.TR0.TRC0.H0.XReebok+&_nkw=Reebok+&_sacat=93427" target="new"><img src="images/works_reebok.png"width="184" height="160"></a>
+        <h3>Reebok</h3>
+      
+      </article>
+      <article><a href="http://www.ebay.com/sch/i.html?_odkw=Reebok&_from=R40%7CR40%7CR40%7CR40%7CR40&_osacat=93427&_from=R40&_trksid=p2045573.m570.l1313.TR0.TRC0.H0.Xpuma&_nkw=puma&_sacat=93427" target="new"><img src="images/works_puuma.png"width="184" height="160"></a>
+        <h3>PUMA</h3>
+       
+      </article>
+    </section>
+    
+     <section id="work" class="cf">
+     <h2>價格查詢</h2>
+      <article>
+        <h3><a href="http://www.ebay.com/sch/Mens-Shoes-/93427/i.html?_udlo=1000&_udhi=2000&_mPrRngCbx=1&_from=R40%7CR40%7CR40%7CR40%7CR40%7CR40%7CR40%7CR40&_nkw&_dcat=93427&rt=nc&_pppn=r1" target="new">1000~2000元</a></h3>
+     
+      </article>
+      <article>
+        <h3><a href="http://www.ebay.com/sch/Mens-Shoes-/93427/i.html?_udlo=2000&_udhi=3000&_mPrRngCbx=1&_from=R40%7CR40%7CR40%7CR40%7CR40%7CR40%7CR40%7CR40&_nkw&_dcat=93427&rt=nc&_pppn=r1" target="new">2000~3000元</a></h3>
+        
+      </article>
+      <article>
+        <h3><a href="http://www.ebay.com/sch/Mens-Shoes-/93427/i.html?_udlo=3%2C000&_udhi=4000&_mPrRngCbx=1&_from=R40%7CR40%7CR40%7CR40%7CR40%7CR40%7CR40%7CR40&_nkw&_dcat=93427&rt=nc&_pppn=r1" target="new">3000~4000元</a></h3>
+     
+      </article>
+      <article>
+        <h3><a href="http://www.ebay.com/sch/Mens-Shoes-/93427/i.html?_udlo=4%2C000&_udhi=5000&_mPrRngCbx=1&_from=R40%7CR40%7CR40%7CR40%7CR40%7CR40%7CR40%7CR40&_nkw&_dcat=93427&rt=nc&_pppn=r1" target="new">4000~5000元</a></h3>
+       
+      </article>
+      <article>
+        <h3><a href="http://www.ebay.com/sch/Mens-Shoes-/93427/i.html?_udlo=5000&_udhi=1000000000000&_mPrRngCbx=1&_from=R40%7CR40%7CR40%7CR40%7CR40%7CR40%7CR40%7CR40&_nkw&_dcat=93427&rt=nc&_pppn=r1" target="new">5000元以上</a></h3>
+     
+      </article>
+    </section>
+     <section id="work" class="cf">
+     <h2>顏色查詢</h2>
+      <article><a href="http://www.ebay.com/sch/Mens-Shoes-/93427/i.html?_udlo=&_udhi=&_mPrRngCbx=1&_from=R40%7CR40%7CR40%7CR40%7CR40%7CR40%7CR40%7CR40&_nkw=&_dcat=93427&Color=Black&rt=nc" target="new"><img src="images/works_black.png"width="184" height="160"></a>
+        <h3>黑色</h3>
+        
+      </article>
+      <article><a href="http://www.ebay.com/sch/Mens-Shoes-/93427/i.html?_udlo=&_udhi=&_mPrRngCbx=1&_from=R40%7CR40%7CR40%7CR40%7CR40%7CR40%7CR40%7CR40&_nkw=&_dcat=93427&Color=Blue&rt=nc" target="new"><img src="images/works_blue.png"width="184" height="160"></a>
+        <h3>藍色</h3>
+       
+      </article>
+      <article><a href="http://www.ebay.com/sch/Mens-Shoes-/93427/i.html?_udlo=&_udhi=&_mPrRngCbx=1&_from=R40%7CR40%7CR40%7CR40%7CR40%7CR40%7CR40%7CR40&_nkw=&_dcat=93427&Color=White&rt=nc" target="new"><img src="images/works_white.png"width="184" height="160"></a>
+        <h3>白色</h3>
+     
+      </article>
+      <article><a href="http://www.ebay.com/sch/Mens-Shoes-/93427/i.html?_udlo=&_udhi=&_mPrRngCbx=1&_from=R40%7CR40%7CR40%7CR40%7CR40%7CR40%7CR40%7CR40&_nkw=&_dcat=93427&Color=Gray&rt=nc" target="new"><img src="images/works_gary.png"width="184" height="160"></a>
+        <h3>灰色</h3>
+      
+      </article>
+      <article><a href="http://www.ebay.com/sch/Mens-Shoes-/93427/i.html?_udlo=&_udhi=&_mPrRngCbx=1&_from=R40%7CR40%7CR40%7CR40%7CR40%7CR40%7CR40%7CR40&_nkw=&_dcat=93427&Color=Red&rt=nc" target="new"><img src="images/works_red.png"width="184" height="160"></a>
+        <h3>紅色</h3>
+      
+      </article>
+    </section>
+        <section id="work" class="cf">
+     <h2>種類查詢</h2>
+      <article><a href="http://www.ebay.com/sch/Casual-/24087/i.html" target="new"><img src="images/works_shose1.png"width="184" height="160"></a>
+        <h3>休閒鞋</h3>
+       
+      </article>
+      <article><a href="http://www.ebay.com/sch/Athletic-/15709/i.html" target="new"><img src="images/works_shose2.png"width="184" height="160"></a>
+        <h3>慢跑鞋</h3>
+        
+      </article>
+      <article><a href="http://www.ebay.com/sch/i.html?_odkw=&_osacat=93427&_from=R40&_trksid=p2045573.m570.l1313.TR0.TRC0.H0.Xbasketball&_nkw=basketball&_sacat=93427" target="new"><img src="images/works_shose3.png"width="184" height="160"></a>
+        <h3>籃球鞋</h3>
+        
+      </article>
+      <article><a href="http://www.ebay.com/sch/i.html?_odkw=slide&_from=R40%7CR40&_osacat=93427&_from=R40&_trksid=p2045573.m570.l1313.TR0.TRC0.H0.Xskateboard&_nkw=skateboard&_sacat=93427" target="new"><img src="images/works_shose4.png"width="184" height="160"></a>
+        <h3>滑板鞋</h3>
+       
+      </article>
+      <article><a href="http://www.ebay.com/sch/Slippers-/11505/i.html?_dcat=11505&Brand=Nike" target="new"><img src="images/works_shose5.png"width="184" height="160"></a>
+        <h3>拖鞋</h3>
+      
+      </article>
+    </section>
+     <section id="work" class="cf">
+     <h2>年份查詢</h2>
+      <article>
+        <h3><a href="http://www.ebay.com/sch/i.html?_odkw=&_osacat=93427&_from=R40&_trksid=p2045573.m570.l1313.TR0.TRC0.H0.X2014&_nkw=2014&_sacat=93427" target="new">2014</a></h3>
+        
+      </article>
+      <article>
+        <h3><a href="http://www.ebay.com/sch/i.html?_odkw=2014&_from=R40&_osacat=93427&_from=R40&_trksid=p2045573.m570.l1313.TR0.TRC0.H0.X2013&_nkw=2013&_sacat=93427" target="new">2013</a></h3>
+     
+      </article>
+      <article>
+        <h3><a href="http://www.ebay.com/sch/i.html?_odkw=2013&_from=R40%7CR40&_osacat=93427&_from=R40&_trksid=p2045573.m570.l1313.TR0.TRC0.H0.X2012&_nkw=2012&_sacat=93427" target="new">2012</a></h3>
+      
+      </article>
+      <article>
+        <h3><a href="http://www.ebay.com/sch/i.html?_odkw=2012&_from=R40%7CR40%7CR40&_osacat=93427&_from=R40&_trksid=p2045573.m570.l1313.TR0.TRC0.H0.X2011&_nkw=2011&_sacat=93427" target="new">2011</a></h3>
+   
+      </article>
+      <article>
+        <h3><a href="http://www.ebay.com/sch/i.html?_odkw=2011&_from=R40%7CR40%7CR40%7CR40&_osacat=93427&_from=R40&_trksid=p2045573.m570.l1313.TR0.TRC0.H0.X2010&_nkw=2010&_sacat=93427" target="new">2010</a></h3>
+     
+      </article>
+    </section>
+    <!--  WORKS  --> 
+    
+    <!--  NEWS  --> 
+    
+    <!--  information  --> 
+  </div>
+<footer>
+  <img src="images/img_logo_s.jpg" width="164" height="18">
+  <p>Copyright &copy; JOJO OS Compamy.</p>
+  </footer>
+  
+</div>
+</body>
+</html>
